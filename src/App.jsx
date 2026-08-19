@@ -3,7 +3,7 @@ import PerfilGamer from './components/PerfilGamer'
 
 function App(){
   return (
-    <PerfilGamer/>
+    <PerfilGamer />
   )
 }
 
